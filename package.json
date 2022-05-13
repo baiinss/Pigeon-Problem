@@ -1,0 +1,24 @@
+{
+  "name": "project-sabby",
+  "version": "1.0.0",
+  "description": "Backend chat service for use with any application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NONE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiinss/Project-Sabby.git"
+  },
+  "keywords": [
+    "chat",
+    "backend",
+    "solutions"
+  ],
+  "author": "Tobi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/baiinss/Project-Sabby/issues"
+  },
+  "homepage": "https://github.com/baiinss/Project-Sabby#readme"
+}
