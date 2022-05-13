@@ -106,3 +106,6 @@ dist
 # Login for mongo-db
 
 mongo-db-login.json
+
+# node.js test files for testing the software (personal, not global debugging or testing)
+tjs/
