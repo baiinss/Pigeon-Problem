@@ -103,9 +103,7 @@ dist
 # TernJS port file
 .tern-port
 
-# Login for mongo-db
-
-mongo-db-login.json
+server-config.json
 
 # node.js test files for testing the software (personal, not global debugging or testing)
 tjs/

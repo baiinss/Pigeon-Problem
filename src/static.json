@@ -1,0 +1,9 @@
+{
+    "missing_key": {
+        "error": "Missing key"
+    },
+    "invalid_key": {
+        "error": "Invalid key"
+    },
+    "saltRounds": 10
+}
